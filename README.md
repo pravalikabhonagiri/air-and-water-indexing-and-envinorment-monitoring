@@ -1,6 +1,3 @@
-# sih air and water quality tools 
-
-link : https://pravalika.github.io/sih/
 
 # Problem Statement ID	: 1324
 # Organization	Government of Kerala
